@@ -1,0 +1,11 @@
+version: "3"
+services:
+  schoolbus-fe:
+    container_name: book-qr-fe
+    restart: always
+    build:
+      context: ./
+    ports:
+      - "8010:80"
+    expose:
+      - "8010"

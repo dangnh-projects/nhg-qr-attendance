@@ -1,0 +1,24 @@
+.invitation-container {
+  margin-top: -80px;
+}
+
+@media all and (max-width: 768px) {
+  .invitation-container {
+    margin-top: 10px;
+    .invitation-info {
+      margin-top: 12px;
+    }
+  }
+}
+
+@media all and (max-width: 528px) {
+  .invitation-img {
+    width: 100% !important;
+  }
+}
+
+@media all and (max-width: 768px) and (min-width: 576px) {
+  .invitation-info {
+    padding-left: 12px;
+  }
+}

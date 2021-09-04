@@ -1,0 +1,80 @@
+{
+  "LANGUAGE": "Language",
+  "DASHBOARD": {
+    "NUMBER_OF_REGISTRATIONS": "The number of registrations per day",
+    "NAME": "Name",
+    "DATE": "Date",
+    "SESSIONS": "Sessions",
+    "DEPARTMENT": "Department",
+    "SCHOOL": "School",
+    "ATTENDANCE_STATUS": "Attendance status",
+    "ATTENDANCE_BY_DEPARTMENT": "Attendance by department",
+    "ATTEND": "Attend",
+    "ABSENT": "Absent",
+    "ATTENDANCE": "Attendance",
+    "ATTENDANCE_ABSENT_BY_DEPARTMENT": "Attendance and Absent By Department",
+    "ATTENDANCE_BY_SCHOOL": "Attendance By School"
+  },
+  "SCAN_QR": {
+    "FULLNAME": "Fullname",
+    "EMAIL": "Email",
+    "REGISTRATION_DATE": "Registration date",
+    "SESSION": "Session",
+    "Scan_QR_CODE": "Scan QR code",
+    "REGISTRATION_CODE": "Registration code",
+    "SUBMIT": "Submit"
+  },
+  "DEPARTMENT": {
+    "NAME": "Department name",
+    "ACTION": "Action",
+    "DEPARTMENT_MNGT": "Department management",
+    "ADD": "Add department",
+    "SUBMIT": "Submit",
+    "MSG_DELETE_SUCCESS": "Delete successfully"
+  },
+  "SCHOOL": {
+    "NAME": "School name",
+    "ACTION": "Action",
+    "SCHOOL_MNGT": "School management",
+    "ADD": "Add school",
+    "SUBMIT": "Submit",
+    "MSG_DELETE_SUCCESS": "Delete successfully",
+    "CODE": "Code"
+  },
+  "SESSION": {
+    "NAME": "Name",
+    "DATE": "Date",
+    "START_TIME": "Start time",
+    "END_TIME": "End time",
+    "SESSION_MNGT": "Session management",
+    "ADD": "Add",
+    "ACTION": "Thao tác",
+    "REGISTRATION_DEADLINE": "Registration deadline",
+    "CODE": "Code"
+  },
+  "USER": {
+    "ID": "ID",
+    "NAME": "Name",
+    "EMAIL": "Email",
+    "ROLE": "Role",
+    "DEPARTMENT": "Department",
+    "SCHOOL": "School",
+    "MSG_DELETE_SUCCESS": "Delete successfully",
+    "USER_MNGT": "User management",
+    "ACTION": "Action",
+    "SUBMIT": "Submit",
+    "CODE": "Code",
+    "CHECKIN_TIME": "Checkin time"
+  },
+  "MENU": {
+    "DASHBOARD": "Dashboard",
+    "SCAN": "Scan",
+    "DEPARTMENT": "Department",
+    "SCHOOL": "School",
+    "SESSION": "Session",
+    "USER": "User",
+    "QR_TOOL": "QR generator tool",
+    "CHECKIN": "Check-in"
+  },
+  "APP_TEXT": "My Text React"
+}

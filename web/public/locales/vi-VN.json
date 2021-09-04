@@ -1,0 +1,80 @@
+{
+  "LANGUAGE": "Ngôn ngữ",
+  "DASHBOARD": {
+    "NUMBER_OF_REGISTRATIONS": "Số lượng đăng ký theo ngày",
+    "NAME": "Tên",
+    "DATE": "Ngày",
+    "SESSIONS": "Khóa học",
+    "DEPARTMENT": "Phòng/ban",
+    "SCHOOL": "Đơn vị/Trường",
+    "ATTENDANCE_STATUS": "Trạng thái điểm danh",
+    "ATTENDANCE_BY_DEPARTMENT": "Thống kê điểm danh theo Phòng/ban",
+    "ATTEND": "Có mặt",
+    "ABSENT": "Vắng mặt",
+    "ATTENDANCE": "Có mặt",
+    "ATTENDANCE_ABSENT_BY_DEPARTMENT": "Thống kê vắng mặt/có mặt theo Phòng/ban",
+    "ATTENDANCE_BY_SCHOOL": "Thống kê điểm danh theo Đơn vị/Trường"
+  },
+  "SCAN_QR": {
+    "FULLNAME": "Họ tên",
+    "EMAIL": "Email",
+    "REGISTRATION_DATE": "Ngày đăng ký",
+    "SESSION": "Phiên",
+    "Scan_QR_CODE": "Quét mã QR",
+    "REGISTRATION_CODE": "Mã đăng ký",
+    "SUBMIT": "Gửi"
+  },
+  "DEPARTMENT": {
+    "NAME": "Tên phòng/ban",
+    "ACTION": "Thao tác",
+    "DEPARTMENT_MNGT": "Quản lý",
+    "ADD": "Thêm phòng/ban",
+    "SUBMIT": "Thêm",
+    "MSG_DELETE_SUCCESS": "Xóa thành công"
+  },
+  "SCHOOL": {
+    "NAME": "Tên đơn vị/trường",
+    "ACTION": "Thao tác",
+    "SCHOOL_MNGT": "Quản lý",
+    "ADD": "Thêm đơn vị/trường",
+    "SUBMIT": "Thêm",
+    "MSG_DELETE_SUCCESS": "Xóa thành công",
+    "CODE": "Mã đơn vị"
+  },
+  "SESSION": {
+    "NAME": "Tên",
+    "DATE": "Ngày",
+    "START_TIME": "Thời gian bắt đầu",
+    "END_TIME": "Thời gian kết thúc",
+    "SESSION_MNGT": "Quản lý khóa học",
+    "ADD": "Thêm",
+    "ACTION": "Thao tác",
+    "REGISTRATION_DEADLINE": "Hạn chót đăng ký",
+    "CODE": "Mã khóa học"
+  },
+  "USER": {
+    "ID": "STT",
+    "NAME": "Họ tên",
+    "EMAIL": "Email",
+    "ROLE": "Chức danh",
+    "DEPARTMENT": "Phòng/ban",
+    "SCHOOL": "Đơn vị/Trường",
+    "MSG_DELETE_SUCCESS": "Xóa thành công",
+    "USER_MNGT": "Quản lý người dùng",
+    "ACTION": "Thao tác",
+    "SUBMIT": "Gửi",
+    "CODE": "Code điểm danh",
+    "CHECKIN_TIME": "Thời gian điểm danh"
+  },
+  "MENU": {
+    "DASHBOARD": "Dashboard",
+    "SCAN": "Quét QR",
+    "DEPARTMENT": "Phòng/ban",
+    "SCHOOL": "Đơn vị/Trường",
+    "SESSION": "Khóa học",
+    "USER": "Người dùng",
+    "QR_TOOL": "Công cụ QR",
+    "CHECKIN": "Điểm danh"
+  },
+  "APP_TEXT": "Chuỗi React"
+}

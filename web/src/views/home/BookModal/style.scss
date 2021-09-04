@@ -1,0 +1,16 @@
+.description-area {
+  &::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 2px rgba(0, 0, 0, 0.1);
+    background-color: hsl(0, 0%, 96%);
+    border-radius: 10px;
+  }
+
+  &::-webkit-scrollbar {
+    width: 4px;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    background-color: #246b00;
+  }
+}

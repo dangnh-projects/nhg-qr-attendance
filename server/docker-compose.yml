@@ -1,0 +1,26 @@
+version: "3"
+services:
+  # schoolbus-fe:
+  #   container_name: book-qr-fe
+  #   restart: always
+  #   build:
+  #     context: ./
+  #   ports:
+  #     - "8010:80"
+  #   expose:
+  #     - "8010"
+
+  mongo:
+    image: mongo
+    ports:
+      - "27018:27017"
+
+    volumes:
+      - ./data/mongo:/data
+
+  redis:
+    image: redis
+    ports:
+      - "6379:6379"
+    volumes:
+      - ./data/redis:/data

@@ -1,0 +1,7 @@
+node_modules
+images/*
+!images/index
+!images/registration-mail-banner.jpg
+!images/registration-mail-banner.png
+.env
+nginx
